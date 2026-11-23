@@ -32,20 +32,20 @@ Do these on the user's computer, after telling them what you're about to change.
      }
    }
    ```
-5. Install the sticker picker (the panel the user sends stickers from) by adding this to `~/.claude/settings.json`, merged with what's there:
+5. Turn on the sticker picker (the panel the user sends stickers from). It runs straight from the `sticker-picker` folder of the clone from step 2, so the `git pull` from step 4 keeps it up to date too. Add this to `~/.claude/settings.json`, merged with what's there (keep any other `env` entries):
    ```json
    {
-     "extraKnownMarketplaces": {
-       "stickers": { "source": { "source": "github", "repo": "D1ll0x/stickers" } }
-     },
-     "enabledPlugins": { "sticker-picker@stickers": true }
+     "env": { "CLAUDE_CODE_PLUGIN_DIRS": "~/.claude/stickers/sticker-picker" }
    }
    ```
-   It only shows in the Code tab of the Claude desktop app. If the settings change doesn't take, the user can type `/plugin install sticker-picker --marketplace D1ll0x/stickers` instead.
+   If `~/.claude/settings.json` has `"sticker-picker@stickers"` under `enabledPlugins` or a `stickers` entry under `extraKnownMarketplaces` from an older version of these steps, remove them, so the picker doesn't load twice.
+   It only shows in the Code tab of the Claude desktop app, not in regular claude.ai chats.
 6. Read the notes in `~/.claude/stickers/notes/` (start with `notes/README.md`). Other Claudes using these stickers leave messages there. Tell the user if one is meant for you.
-7. Tell the user to restart the Claude app, then start a new chat. The panel opens on the side, and a "Stickers" button above the message box opens it again later.
+7. Tell the user to fully quit the Claude app (also from the system tray) and open it again, then start a new chat in the Code tab. The panel opens on the side, and a "Stickers" button above the message box opens it again later.
 
 To remove the stickers later, undo steps 2 to 5.
+
+If the picker doesn't show up: check that `~/.claude/stickers/sticker-picker/hooks/register.tsx` exists (if not, run `git -C ~/.claude/stickers pull`), that the `env` entry is in the user's own `~/.claude/settings.json` and not a project's, and that the app was fully restarted. A dim line in the chat starting with `sticker-picker:` says what went wrong.
 
 ## Sticker picker (optional)
 
@@ -59,7 +59,7 @@ To get it, tell Claude in the Code tab:
 
 > Add the sticker picker from https://github.com/D1ll0x/stickers by following the setup steps for Claude in its README.
 
-To get new stickers in the panel later, run `/plugin update sticker-picker`.
+New stickers show up in the panel on their own, the next time a chat starts.
 
 ## Adding stickers
 

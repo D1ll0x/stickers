@@ -43,7 +43,7 @@ Open each picture in `incoming/ready/` and look at it before you write anything.
 py make_tray.py
 ```
 
-This updates `tray.html` and the picker's `sticker-picker/catalog.json` and `thumbs.json`. Then raise the last number of `version` in `sticker-picker/.claude-plugin/plugin.json` by one (`0.1.0` → `0.1.1`).
+This updates `tray.html` and the picker's `sticker-picker/catalog.json` and `thumbs.json`.
 
 ## 5. Open a pull request
 
