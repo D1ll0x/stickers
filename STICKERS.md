@@ -270,3 +270,80 @@ Most stickers show the same character: a white, pear-shaped blob (kind of a meme
 - dog-stare.webp — real photo of a Bernese mountain dog staring straight into the camera, mouth a little open showing teeth; "looking at you", waiting, judging, blank "hm?"
 - dog-side-glance.webp — real photo of a Bernese mountain dog looking off to the side and up, whites of its eye showing; awkward, side eye, nervous, "uh..."
 - lizard.webp — real photo of a speckled lizard held in a hand with painted nails, looking up at the camera with a little smile; reptiles, lizards, "look at this guy", cute pet
+
+### Memes
+- summer-blowout.webp — movie shopkeeper meme: chunky guy in a patterned sweater, mouth in an "o", both hands up waving, text "YOO HOO" and "BIG SUMMER BLOWOUT"; yuhu, yoo-hoo, cheerful hello, sale or deal hype
+- smirk-ellie.webp — video game girl with a backpack giving a lopsided, unimpressed little smirk; "sure buddy", skeptical, "whatever you say", amused doubt
+- looking-up-scared.webp — bearded man in blue light staring up with wide scared eyes, mouth open; dread, "oh no", something bad is coming
+- looking-up-happy.webp — same bearded man in blue light looking up with a huge delighted grin; hope, relief, "it's happening", pure joy
+- crying-smile.webp — man with tears running down, holding a shaky forced smile; crying but okay, touched, "I'm fine", emotional
+- exit-sign.webp — guy holding an EXIT sign over his head and pointing to the door; "I'm out", leaving, "bye", nope
+- face-squish.webp — curly-haired guy squishing his own cheek, squinting smugly at the camera; cheeky, smug, "hehe", sly
+- beanie-stare.webp — guy in a black beanie at his desk with a blank dead stare; unimpressed, "...", deadpan
+- side-eye-dog.webp — dachshund on a couch giving a suspicious side eye; side eye, sus, judging
+- time-out.webp — big man in a blue polo making a T time-out sign with his hands; "hold up", time out, wait
+- mouse-scheming.webp — little white movie mouse in a red shirt with its hands pressed together; scheming, hopeful, "hehe", please
+- wrinkly-stare.webp — grainy gray close-up of a wrinkly big-eyed creature staring straight at you; staring, unsettled, "..."
+- absolute-cinema.webp — black-and-white old man raising both hands, text "ABSOLUTE CINEMA"; masterpiece, peak, perfection
+- thinking-cat.webp — cat in profile with a paw raised to its chin like it's thinking; hmm, pondering, "is this ragebait?"
+- plankton-squint.webp — tiny green one-eyed cartoon guy squinting with a grimace; cringe, disgust, "ew"
+- shaka-cat.webp — cat with its tongue out and a shaka hand emoji; chill, "hang loose", vibing
+- sunset-dog.webp — dog in golden sunset light looking off proudly into the distance; proud, majestic, "I've seen things"
+- wall-talk.webp — guy explaining something to a brick wall; talking to a wall, nobody listens, pointless
+- headphone-squint.webp — guy with headphones squinting and wincing; cringe, "ugh", disgusted, that hurt to hear
+- eagle-stare.webp — man face to face with a bald eagle, staring each other down; standoff, intense stare, "say that again"
+- pointing-kids.webp — kid pointing and laughing while the other kid ducks; caught, roasted, "you got got"
+- creepy-moon.webp — dark yellow moon-like emoji face with one eye and a white glove hand; ominous, creepy, "hmm"
+- how-bro-felt.webp — huge buff lion-man sitting proudly, text "How bro felt after saying that"; smug, felt powerful, said something bold
+- math-cat.webp — cat face squinting in confusion over floating math equations; confused, calculating, "huh?"
+- shocked-fox.webp — cartoon fox in a shirt and tie with huge wide eyes; shocked, caught off guard
+- lie-detector.webp — truth-or-lie meter with the needle pointing at LIE; that's a lie, cap, "sure"
+- heart-hands.webp — big guy making a heart with his hands; love, appreciation, wholesome
+- fire-scream.webp — blue cartoon creature screaming in front of flames; panic, chaos, "AAAA"
+- sponge-panic.webp — yellow sponge cartoon panicking with arms out and a scared face; panic, freaking out
+- fancy-laugh.webp — man in an old-fashioned suit laughing and raising a glass; laughing at you, cheers, smug
+- it-was-a-joke.webp — penguin next to a sign reading "IT WAS A JOKE"; just kidding, relax, "chill"
+- praying-pair.webp — two old men in black and white with eyes closed and hands clasped; praying, hoping, please
+- thousand-yard-stare.webp — soldier in a helmet with a hollow thousand-yard stare; traumatized, seen too much, exhausted
+- skill-issue.webp — yellow emoji guy pointing, text "Skill ISSUE"; skill issue, git gud, roast
+- cat-yell.webp — cat with mouth wide open yelling, with a pointing fist emoji; yelling, "YOU", calling out
+- memory-wipe.webp — agent in sunglasses holding up a flashing pen; "forget that happened", erase, never mind
+- lego-gasp.webp — toy figure in a white suit with a shocked open mouth; gasp, shocked, "what"
+- yes-cheer.webp — guy in a tee pumping both fists and yelling; yes, let's go, hyped
+- chin-rest.webp — guy resting his chin on his hands with a sweet look; cute, innocent, "aww"
+- who-me.webp — boy with a hand on his chest looking surprised; "who, me?", touched, flattered
+- nerd-cat.webp — cat in big glasses with a raised finger emoji; "actually...", well technically, nerd
+- tiny-purple.webp — tiny purple googly-eyed worm standing on pavement; small, lonely, silly, random
+- hold-on.webp — man holding his temples, text "HOLD ON" and "let me process this"; processing, confused, overwhelmed
+- smug-cartoon-dog.webp — cartoon brown dog in a sweater with a smug half-lidded look; smug, unbothered
+- mind-block.webp — two glowing blue heads, one blocking the other's laser with its hand; "not reading that", mind block, rejecting
+- padded-room.webp — man in white sitting in a padded room corner; losing it, going insane, "I'm fine"
+- streamer-side-eye.webp — guy with headphones giving a sideways look; side eye, sus, "what did you just say"
+- skeptical-glasses.webp — bald man in glasses giving a doubtful look; skeptical, "really?", hmm
+- red-card.webp — referee holding up a red card; you're out, foul, banned
+- big-eyed-lemur.webp — cartoon mouse lemur with huge droopy eyes; awkward, creepy cute, "hi"
+- grinning-dog.webp — little dog with a big toothy grin; happy, "hehe", silly
+- unbothered-chimp.webp — lioness roaring at a calm chimp; unbothered, not scared, ignoring the drama
+- driver-stare.webp — guy driving and glancing over with a serious look; side eye, "you serious?"
+- sleepy-cat.webp — white cat with squinty half-closed eyes; sleepy, tired, unimpressed
+- rose-cat.webp — kitten holding out a red rose; for you, sweet, sorry, love
+- tux-tear.webp — man in a tuxedo wiping a tear; so proud, emotional, touched
+- glasses-off-dog.webp — white cartoon dog taking off his glasses; "excuse me?", serious, disbelief
+- sneaky-walk.webp — man tiptoeing with a guilty smirk; sneaking away, guilty, "I didn't do it"
+- doll-facepalm.webp — blonde doll in pink sunglasses with her hand on her forehead; facepalm, ugh, embarrassed
+- audience-smirk.webp — guy in a crowd smirking and nodding; impressed, "nice", approving
+- loading-cat.webp — black cat with a loading spinner on its head; loading, buffering, brain lagging
+- rose-for-you.webp — guy pointing at you holding a big red rose; for you, smooth, flirty
+- lock-in.webp — cat in front of an explosion, text "time to lock in"; focus, grind time, serious mode
+- smug-corgi.webp — corgi with a smug little smile; smug, pleased, "heh"
+- relieved-laugh.webp — man with hands behind his head laughing; relief, laughing it off, "phew"
+- smiling-pitbull.webp — white pitbull with a big happy smile; happy, wholesome, good boy
+- derpy-dog.webp — fluffy dog upside down with a goofy grin; derpy, silly, happy
+- awkward-stand.webp — man standing in a kitchen with hands in pockets, awkward smile; awkward, "so...", waiting
+- cool-thumbs.webp — yellow emoji with sunglasses, big grin and a thumbs up; cool, nice, approved
+- free-at-last.webp — silhouette breaking chains against a sunset; freedom, finally done, weekend
+- sketch-pout.webp — rough line drawing of a pouting blob with a fist; grumpy, pouting, mad
+- tone-cat.webp — cat looking offended, text "why did you text me in that tone"; offended, "excuse me", rude
+- fist-bump-cat.webp — orange cat with a fist bump emoji; fist bump, deal, respect
+- lost-too.webp — yellow road sign reading "Don't follow me, I'm lost too"; clueless, no idea, lost
+- moon-shot.webp — basketball player shooting a ball on the moon with Earth behind; moon shot, long shot, epic
