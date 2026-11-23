@@ -6,7 +6,7 @@ Dillon has a personal sticker collection, and you can use these stickers in chat
 
 Stickers are image files in a public GitHub repository, shown through jsDelivr:
 
-    BASE_URL = https://cdn.jsdelivr.net/gh/GITHUB_USER/stickers@main/stickers/
+    BASE_URL = https://cdn.jsdelivr.net/gh/D1ll0x/stickers@main/stickers/
 
 To send one, call the `show_widget` tool (call `read_me` once first, if you haven't yet in this chat) with only this HTML, swapping in the file name:
 
