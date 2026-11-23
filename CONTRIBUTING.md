@@ -35,7 +35,7 @@ Open each picture in `incoming/ready/` and look at it before you write anything.
 - Add one line to `STICKERS.md` in the right category, in this format:
   `- file-name.webp — what it shows; when to use it`
   The part before the `;` describes the picture plainly (face, pose, props, any text on it). The part after lists moods and moments it fits. Mention it if it reads as suggestive or mean, like the existing lines do.
-- Categories: "Blob: happy and nice", "Blob: thinking and working", "Blob: shocked, mad and sad", "Blob: food, drinks and chilling", "Blob: costumes and seasons", "Real animals", "Memes". If none fits, use the closest and say so in the pull request.
+- Categories: the hamster blob ones go under "Blob: happy and nice", "Blob: thinking and working", "Blob: shocked, mad and sad", "Blob: food, drinks and chilling" or "Blob: costumes and seasons". Everything else goes under "Meme: happy and hype", "Meme: roasting and judging", "Meme: shocked and confused", "Meme: awkward, sad and done" or "Meme: animals" (any real animal photo). If none fits, use the closest and say so in the pull request.
 
 ## 4. Rebuild the generated files
 

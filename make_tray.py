@@ -11,21 +11,25 @@ SHORT = {
     "Blob: shocked, mad and sad": "Shocked",
     "Blob: food, drinks and chilling": "Food",
     "Blob: costumes and seasons": "Costumes",
-    "Real animals": "Animals",
-    "Memes": "Memes",
+    "Meme: happy and hype": "Happy",
+    "Meme: roasting and judging": "Roasting",
+    "Meme: shocked and confused": "Shocked",
+    "Meme: awkward, sad and done": "Sad & done",
+    "Meme: animals": "Animals",
 }
 
 items, cats, cat = [], [], ""
 for line in (ROOT / "STICKERS.md").read_text(encoding="utf8").splitlines():
     head = re.match(r"^###\s+(.+)$", line)
     if head:
-        cat = SHORT.get(head.group(1).strip(), head.group(1).strip())
-        cats.append(cat)
+        full = head.group(1).strip()
+        cat = full
+        cats.append([SHORT.get(full, full), 0 if full.startswith("Blob") else 1])
         continue
     row = re.match(r"^- ([a-z0-9-]+)\.webp — (.*)$", line)
     if row:
         when = row.group(2).rsplit(";", 1)[-1].strip().lower()
-        items.append([row.group(1), cats.index(cat), when])
+        items.append([row.group(1), len(cats) - 1, when])
 
 data = json.dumps({"c": cats, "s": items}, ensure_ascii=False, separators=(",", ":"))
 
@@ -42,18 +46,20 @@ html = """<h2 class="sr-only">Sticker tray: tap a sticker to send it</h2>
 .tr-empty{font-size:13px;color:var(--text-secondary)}
 </style>
 <div class="tr-top"><input id="trq" type="search" placeholder="lol, tired, pizza" aria-label="Search stickers"></div>
+<div class="tr-cats" id="trt"></div>
 <div class="tr-cats" id="trc"></div>
 <div class="tr-grid" id="trg"></div>
 <p class="tr-empty" id="tre" hidden>No stickers match that.</p>
 <script>
-const D=__DATA__,B="__BASE__";let cat=-1,q="";
-const g=document.getElementById("trg"),c=document.getElementById("trc"),e=document.getElementById("tre");
+const D=__DATA__,B="__BASE__";let grp=0,cat=-1,q="";
+const g=document.getElementById("trg"),t=document.getElementById("trt"),c=document.getElementById("trc"),e=document.getElementById("tre");
 const btns=D.s.map(([n])=>{const b=document.createElement("button");b.title=n;b.setAttribute("aria-label","Send "+n);
 b.innerHTML='<img loading="lazy" alt="'+n+'" src="'+B+n+'.webp">';b.onclick=()=>sendPrompt("[sticker] "+n+".webp");g.appendChild(b);return b});
-function chip(label,i){const b=document.createElement("button");b.textContent=label;b.onclick=()=>{cat=i;draw()};c.appendChild(b);return b}
-const chips=[chip("All",-1),...D.c.map((l,i)=>chip(l,i))];
-function draw(){let n=0;D.s.forEach(([name,ci,w],i)=>{const ok=(cat<0||ci===cat)&&(!q||name.includes(q)||w.includes(q));btns[i].style.display=ok?"":"none";if(ok)n++});
-chips.forEach((b,i)=>b.classList.toggle("on",i-1===cat));e.hidden=n>0}
+const tabs=["Hamsters","Memes"].map((l,i)=>{const b=document.createElement("button");b.textContent=l;b.onclick=()=>{grp=i;cat=-1;draw()};t.appendChild(b);return b});
+function chips(){c.innerHTML="";const all=document.createElement("button");all.textContent="All";all.onclick=()=>{cat=-1;draw()};all.classList.toggle("on",cat<0);c.appendChild(all);
+D.c.forEach(([l,gi],i)=>{if(gi!==grp)return;const b=document.createElement("button");b.textContent=l;b.onclick=()=>{cat=i;draw()};b.classList.toggle("on",cat===i);c.appendChild(b)})}
+function draw(){let n=0;D.s.forEach(([name,ci,w],i)=>{const ok=(q?true:D.c[ci][1]===grp)&&(cat<0||ci===cat)&&(!q||name.includes(q)||w.includes(q));btns[i].style.display=ok?"":"none";if(ok)n++});
+tabs.forEach((b,i)=>b.classList.toggle("on",i===grp));chips();e.hidden=n>0}
 document.getElementById("trq").oninput=ev=>{q=ev.target.value.trim().toLowerCase();draw()};
 draw();
 </script>""".replace("__DATA__", data).replace("__BASE__", BASE)

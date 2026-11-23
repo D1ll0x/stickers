@@ -9,16 +9,24 @@ let firstRow = 0
 let pending: string | null = null
 const sentWith = new Map<string, string>()
 let rowCount = 0
-const CATS: [string, string][] = [
-  ['all', 'All'],
-  ['Blob: happy and nice', 'Happy'],
-  ['Blob: thinking and working', 'Thinking'],
-  ['Blob: shocked, mad and sad', 'Shocked'],
-  ['Blob: food, drinks and chilling', 'Food'],
-  ['Blob: costumes and seasons', 'Costumes'],
-  ['Real animals', 'Animals'],
-  ['Memes', 'Memes'],
+const GROUPS: { id: string; label: string; cats: [string, string][] }[] = [
+  { id: 'hamsters', label: 'Hamsters', cats: [
+    ['Blob: happy and nice', 'Happy'],
+    ['Blob: thinking and working', 'Thinking'],
+    ['Blob: shocked, mad and sad', 'Shocked'],
+    ['Blob: food, drinks and chilling', 'Food'],
+    ['Blob: costumes and seasons', 'Costumes'],
+  ] },
+  { id: 'memes', label: 'Memes', cats: [
+    ['Meme: happy and hype', 'Happy'],
+    ['Meme: roasting and judging', 'Roasting'],
+    ['Meme: shocked and confused', 'Shocked'],
+    ['Meme: awkward, sad and done', 'Sad & done'],
+    ['Meme: animals', 'Animals'],
+  ] },
 ]
+let group = 'hamsters'
+const groupOf = (c: string) => (c.startsWith('Blob') ? 'hamsters' : 'memes')
 
 type Sticker = { file: string; name: string; desc: string; cat: string }
 
@@ -46,6 +54,7 @@ async function loadThumbs($: any) {
 function matches(): Sticker[] {
   const q = query.trim().toLowerCase()
   return all.filter(s =>
+    (query.trim() ? true : groupOf(s.cat) === group) &&
     (cat === 'all' || s.cat === cat) &&
     (!q || s.name.includes(q) || s.desc.toLowerCase().includes(q)))
 }
@@ -107,10 +116,17 @@ export const register: Register = on => {
         <Input key="search" placeholder="Search stickers" value={query} submitLabel="search"
           onInput={(v: string) => { query = v; firstRow = 0; redraw() }}
           onSubmit={(v: string) => { query = v; firstRow = 0; redraw() }} />
+        <Box flexDirection="row" gap={1}>
+          {GROUPS.map(g => (
+            <Button key={`group-${g.id}`} label={g.label}
+              {...(group === g.id ? { variant: 'primary' } : {})}
+              onPress={() => { group = g.id; cat = 'all'; firstRow = 0; redraw() }} />
+          ))}
+        </Box>
         <Box flexDirection="row" flexWrap="wrap" gap={1}>
-          {CATS.map(([full, short]) => (
-            <Button key={`cat-${short}`} label={short}
-              {...(cat === full ? { variant: 'primary' } : {})}
+          {[['all', 'All'] as [string, string], ...(GROUPS.find(g => g.id === group)?.cats ?? [])].map(([full, short]) => (
+            <Button key={`cat-${group}-${short}`} label={short} dimColor={cat !== full}
+              {...(cat === full ? { variant: 'secondary' } : {})}
               onPress={() => pick(full)} />
           ))}
         </Box>
