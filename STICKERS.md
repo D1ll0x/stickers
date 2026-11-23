@@ -42,7 +42,7 @@ Most stickers show the same character: a white, pear-shaped blob (kind of a meme
 - shy-blush.webp — heavy blush scribbles, squinty smiling eyes, hands fidgeting under the chin, faint heart floating nearby; flattered by a compliment, shy, "stoppp"
 - flirty-lashes.webp — long curly eyelashes, pink blush, tiny ":)" smile; flirty, charming, "you're sweet", playful compliment back
 - laughing.webp — squinting happy eyes, huge open mouth with two buck teeth; lol, laughing, something's genuinely funny
-- crazy-tongue.webp — scrunched-shut eyes, mouth stretched wide with a giant pink tongue hanging out; dying laughing, unhinged, chaos, way too funny
+- crazy-tongue.webp — eyes rolled back, mouth hanging wide open with a giant pink tongue out; reads as freaky/suggestive, not as laughing. Only for something that's genuinely unhinged on purpose. Never after anything about a partner, dating or romance, and never as "lol" (use laughing.webp or big-laugh.webp for that)
 - blep.webp — wide innocent eyes, plain face, little pink tongue poking straight out; playful, teasing, cheeky, "hehe"
 - peace.webp — smaller blob, one eye winking, tongue slightly out, tiny peace sign hand; hi, bye, cheeky, "later"
 - thank-you.webp — handwritten "Thank You" with a red heart above a blushing blob holding little hearts; thanks, appreciation
@@ -80,7 +80,7 @@ Most stickers show the same character: a white, pear-shaped blob (kind of a meme
 - flower-bouquet.webp — holding a bouquet of pink tulips on a black background; flowers for you, sweet, sorry
 - love-letter.webp — blushing while writing a love letter at a desk, night window and a heart mug; love, writing, missing someone
 - unicorn-flex.webp — unicorn-horn headband, flexing a buff arm, holding a pink dumbbell; gym, strong, swole, motivation
-- lip-bite.webp — biting its lip with a little smirk; flirty, tempted, "hmm"
+- lip-bite.webp — eyes rolled up, biting its lower lip; thirsty, suggestive, "down bad". Never about the user's partner or anyone real
 - soft-smile.webp — gentle little smile, calm eyes; content, sweet, okay
 - cat-hug.webp — yellow hard hat, hugging a sleepy orange cat; cat love, protecting, wholesome
 - guinea-pig.webp — blushing and winking, holding a little brown hamster; pets, cute, tiny friend
@@ -144,7 +144,7 @@ Most stickers show the same character: a white, pear-shaped blob (kind of a meme
 - teeth-grit.webp — eyes squeezed shut, mouth stretched into a box of clenched teeth; cringe, awkward, yikes, bracing for it
 - ugly-cry.webp — squeezed teary eyes, mouth wide open wailing; crying hard, "AAAA", overwhelmed (jokingly)
 - sobbing.webp — waterfalls of tears pouring down, wobbly frown; sobbing, devastated, "I'm literally crying"
-- tongue-scream.webp — bulging wide eyes, mouth stretched open with the tongue hanging out; screaming, freaking out, "AHHH" (excited or horrified)
+- tongue-scream.webp — bulging wide eyes, mouth stretched open with the tongue hanging out; screaming, freaking out, "AHHH" (excited or horrified). Can read a bit freaky, so keep it away from anything about a partner or dating
 - sunglasses-cry.webp — dark sunglasses with a single tear rolling out, sad mouth; crying behind the shades, hiding sadness, "I'm fine"
 - explosion.webp — calm smile while something explodes in flames next to it; this is fine, chaos, it blew up, oops
 - grumpy-frown.webp — tiny frown with little arms sticking out at the sides; grumpy, "hmph", mildly annoyed
