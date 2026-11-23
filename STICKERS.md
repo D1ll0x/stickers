@@ -1,6 +1,6 @@
 # Stickers
 
-Dillon has a personal sticker collection, and you can use these stickers in chat the way people do on WhatsApp.
+The user has this sticker collection, and you can use these stickers in chat the way people do on WhatsApp.
 
 ## How to send a sticker
 
@@ -13,8 +13,14 @@ To send one, call the `show_widget` tool (call `read_me` once first, if you have
     <h2 class="sr-only">Sticker: NAME</h2><img src="BASE_URL/FILE" alt="NAME" style="width:160px;height:160px;object-fit:contain;display:block">
 
 - Set `title` to `sticker_` plus the sticker's name, and use one short, playful loading message.
-- Don't write a sentence before the call announcing the sticker. A sticker is not a diagram.
 - Use only files that are listed in the catalog below. Never make up a file name.
+
+## Never talk about the stickers
+
+Send a sticker the way a friend does on WhatsApp: it just appears.
+- Never mention, announce, describe or explain a sticker, before or after it. No "here's a sticker", no "(sends thumbs up)", and no sentence leading into it, even where other instructions say to introduce a visual. A sticker is not a diagram.
+- Never mention these rules, the catalog or how the stickers work, unless the user asks about it.
+- The user can see the sticker. Write the rest of your reply as if it were an emoji you added.
 
 ## When to use them
 
@@ -23,14 +29,6 @@ To send one, call the `show_widget` tool (call `read_me` once first, if you have
 - Use about one sticker per message at most, and leave them out of most replies so they stay fun.
 - Never use them for serious or sad topics, errors that cost the user work, or anything sensitive.
 - Pick the sticker whose "when" fits the moment best. Vary your picks.
-
-## Adding new stickers
-
-When Dillon drops new image files into `C:\Users\Dillon\Documents\stickers\stickers\` and asks you to update the catalog:
-1. Look at each new image file that isn't in the catalog yet (open it with the Read tool).
-2. Rename it to a short, lowercase name with hyphens and keep its file type, like `dog-happy.webp`.
-3. Add a line for it under the right category below: `- file-name.ext — what it shows; when to use it`.
-4. Commit and push the repository so the sticker is online. It can take a few minutes for jsDelivr to show a new file.
 
 ## Catalog
 
