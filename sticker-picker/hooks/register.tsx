@@ -84,8 +84,12 @@ export const register: Register = on => {
     if (all.length === 0) await load($)
     if (all.length === 0) return <Text dimColor>Couldn't read your sticker list. {loadError}</Text>
 
-    const COLS = colsFor(e.viewport?.columns)
+    // bodyColumns is the pane's own width; viewport.columns is the whole window.
+    const paneCols = (e.props as any)?.bodyColumns ?? e.viewport?.columns
+    const COLS = colsFor(paneCols)
     const pct = `${Math.floor(100 / COLS)}%`
+    // Stack Send over Add when a cell is too narrow to hold both side by side.
+    const stackButtons = paneCols ? paneCols / COLS < 24 : false
     const list = matches()
     const shown = list
 
@@ -105,7 +109,7 @@ export const register: Register = on => {
                   ? `<svg xmlns="http://www.w3.org/2000/svg" width="${SIZE}" height="${SIZE}" viewBox="0 0 ${SIZE} ${SIZE}"><image href="data:image/webp;base64,${b64}" width="${SIZE}" height="${SIZE}" preserveAspectRatio="xMidYMid meet"/></svg>`
                   : BLANK} />
             : <Text dimColor>{s.name}</Text>}
-          <Box flexDirection="row" flexWrap="wrap" justifyContent="center" gap={1}>
+          <Box flexDirection={stackButtons ? 'column' : 'row'} alignItems="center" gap={stackButtons ? 0 : 1}>
             <Button key={`send-${s.file}`} label="Send" onPress={() => send(s)} />
             <Button key={`add-${s.file}`} label="Add" dimColor onPress={() => add(s)} />
           </Box>
