@@ -343,6 +343,6 @@ Most stickers show the same character: a white, pear-shaped blob (kind of a meme
 - free-at-last.webp — silhouette breaking chains against a sunset; freedom, finally done, weekend
 - sketch-pout.webp — rough line drawing of a pouting blob with a fist; grumpy, pouting, mad
 - tone-cat.webp — cat looking offended, text "why did you text me in that tone"; offended, "excuse me", rude
-- fist-bump-cat.webp — orange cat with a fist bump emoji; fist bump, deal, respect
+- fist-bump-cat.webp — orange cat with a fist emoji flying right at the camera, reads like a punch; "I will punch you", threatening (jokingly), "say that again", fight me
 - lost-too.webp — yellow road sign reading "Don't follow me, I'm lost too"; clueless, no idea, lost
 - moon-shot.webp — basketball player shooting a ball on the moon with Earth behind; moon shot, long shot, epic
