@@ -11,3 +11,4 @@ When new image files are dropped into the `stickers\` folder there and the user 
 6. Commit and push. jsDelivr can take a few minutes to show a new file.
 
 Other people's computers pick up the new stickers on their own the next time they start a chat.
+7. Run `py make_tray.py` to rebuild `tray.html`, the tap-to-send sticker tray, then commit it with the rest.
