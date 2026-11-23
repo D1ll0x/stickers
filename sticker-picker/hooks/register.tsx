@@ -1,7 +1,11 @@
 import type { Register } from 'claude-code'
 
 const PANE = 'sticker-picker'
-const COLS = 4
+const MAX_COLS = 4
+// Pane columns each sticker needs so the picture and both buttons fit side by side.
+const CELL_COLS = 20
+const colsFor = (width?: number) =>
+  width ? Math.max(1, Math.min(MAX_COLS, Math.floor(width / CELL_COLS))) : MAX_COLS
 const WIN = 12
 const SIZE = 100
 const BLANK = `<svg xmlns="http://www.w3.org/2000/svg" width="${SIZE}" height="${SIZE}"></svg>`
@@ -80,6 +84,8 @@ export const register: Register = on => {
     if (all.length === 0) await load($)
     if (all.length === 0) return <Text dimColor>Couldn't read your sticker list. {loadError}</Text>
 
+    const COLS = colsFor(e.viewport?.columns)
+    const pct = `${Math.floor(100 / COLS)}%`
     const list = matches()
     const shown = list
 
@@ -92,14 +98,14 @@ export const register: Register = on => {
     const cell = (s: Sticker, live: boolean) => {
       const b64 = live ? (thumbs.get(s.file) ?? '') : ''
       return (
-        <Box key={`cell-${s.file}`} flexDirection="column" alignItems="center" flexGrow={1} flexShrink={1} width="25%">
+        <Box key={`cell-${s.file}`} flexDirection="column" alignItems="center" flexGrow={1} flexShrink={1} width={pct} minWidth={0}>
           {Svg
             ? <Svg alt={s.name} width={SIZE} height={SIZE}
                 source={b64
                   ? `<svg xmlns="http://www.w3.org/2000/svg" width="${SIZE}" height="${SIZE}" viewBox="0 0 ${SIZE} ${SIZE}"><image href="data:image/webp;base64,${b64}" width="${SIZE}" height="${SIZE}" preserveAspectRatio="xMidYMid meet"/></svg>`
                   : BLANK} />
             : <Text dimColor>{s.name}</Text>}
-          <Box flexDirection="row" gap={1}>
+          <Box flexDirection="row" flexWrap="wrap" justifyContent="center" gap={1}>
             <Button key={`send-${s.file}`} label="Send" onPress={() => send(s)} />
             <Button key={`add-${s.file}`} label="Add" dimColor onPress={() => add(s)} />
           </Box>
@@ -135,7 +141,7 @@ export const register: Register = on => {
           <Box key={`row-${r}`} flexDirection="row" gap={1}>
             {row.map(st => cell(st, r >= firstRow && r < firstRow + WIN))}
             {Array.from({ length: COLS - row.length }, (_, k) => (
-              <Box key={`pad-${r}-${k}`} flexGrow={1} flexShrink={1} width="25%" />
+              <Box key={`pad-${r}-${k}`} flexGrow={1} flexShrink={1} width={pct} minWidth={0} />
             ))}
           </Box>
         ))}
