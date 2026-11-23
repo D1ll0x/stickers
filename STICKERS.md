@@ -306,7 +306,7 @@ Most stickers show the same character: a white, pear-shaped blob (kind of a meme
 - praying-pair.webp — two old men in black and white with eyes closed and hands clasped; praying, hoping, please
 - thousand-yard-stare.webp — soldier in a helmet with a hollow thousand-yard stare; traumatized, seen too much, exhausted
 - skill-issue.webp — yellow emoji guy pointing, text "Skill ISSUE"; skill issue, git gud, roast
-- cat-yell.webp — cat with mouth wide open yelling, with a pointing fist emoji; yelling, "YOU", calling out
+- cat-yell.webp — white cat cackling with its mouth wide open, a yellow emoji hand pointing right at you; pointing and laughing at you, roasting, "LMAOOO", laughing at someone's dumb mishap
 - memory-wipe.webp — agent in sunglasses holding up a flashing pen; "forget that happened", erase, never mind
 - lego-gasp.webp — toy figure in a white suit with a shocked open mouth; gasp, shocked, "what"
 - yes-cheer.webp — guy in a tee pumping both fists and yelling; yes, let's go, hyped
