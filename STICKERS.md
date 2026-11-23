@@ -272,7 +272,7 @@ Most stickers show the same character: a white, pear-shaped blob (kind of a meme
 - lizard.webp — real photo of a speckled lizard held in a hand with painted nails, looking up at the camera with a little smile; reptiles, lizards, "look at this guy", cute pet
 
 ### Memes
-- summer-blowout.webp — movie shopkeeper meme: chunky guy in a patterned sweater, mouth in an "o", both hands up waving, text "YOO HOO" and "BIG SUMMER BLOWOUT"; yuhu, yoo-hoo, cheerful hello, sale or deal hype
+- summer-blowout.webp — movie shopkeeper: chunky guy with a ginger mustache, rosy cheeks and nose, knit hat and patterned sweater, sweet little smile with fingertips pressed together; yuhu, yoo-hoo, cheerful hello, friendly salesman, "can I interest you in..."
 - smirk-ellie.webp — video game girl with a backpack giving a lopsided, unimpressed little smirk; "sure buddy", skeptical, "whatever you say", amused doubt
 - looking-up-scared.webp — bearded man in blue light staring up with wide scared eyes, mouth open; dread, "oh no", something bad is coming
 - looking-up-happy.webp — same bearded man in blue light looking up with a huge delighted grin; hope, relief, "it's happening", pure joy
