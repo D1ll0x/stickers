@@ -272,7 +272,7 @@ Most stickers show the same character: a white, pear-shaped blob (kind of a meme
 
 ### Memes
 - summer-blowout.webp — movie shopkeeper: chunky guy with a ginger mustache, rosy cheeks and nose, knit hat and patterned sweater, sweet little smile with fingertips pressed together; yuhu, yoo-hoo, cheerful hello, friendly salesman, "can I interest you in..."
-- smirk-ellie.webp — video game girl with a backpack giving a lopsided, unimpressed little smirk; "sure buddy", skeptical, "whatever you say", amused doubt
+- smirk-ellie.webp — close-up of a video game girl with raised brows giving a crooked, pursed sideways smirk; "sure buddy", skeptical, "whatever you say", amused doubt, "really?"
 - looking-up-scared.webp — bearded man in blue light staring up with wide scared eyes, mouth open; dread, "oh no", something bad is coming
 - looking-up-happy.webp — same bearded man in blue light looking up with a huge delighted grin; hope, relief, "it's happening", pure joy
 - crying-smile.webp — man with tears running down, holding a shaky forced smile; crying but okay, touched, "I'm fine", emotional
