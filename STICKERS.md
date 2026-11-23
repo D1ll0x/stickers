@@ -54,7 +54,6 @@ Most stickers show the same character: a white, pear-shaped blob (kind of a meme
 - cats.webp — blob with a ":3"-style mouth, two cartoon cats (a calico and a gray one) lying in front of it; cats, cuteness, pets
 - angel.webp — golden halo, white wings, blank innocent face with a buck tooth; innocent, "who, me?", being on your best behavior
 - birthday-cake.webp — pastel striped party hat, happy squinty smile, holding a birthday cake with lit candles; happy birthday, celebrating, party
-- big-laugh.webp — squinting eyes, huge open black mouth with two buck teeth; lol, cracking up, super excited
 - graduation.webp — black graduation cap, big happy open-mouth smile; graduated, proud, finished school, achievement
 - glasses-smile.webp — big black-rimmed glasses with brown eyes, warm wide smile; friendly nerd, wholesome, happy to help
 - content-smile.webp — closed happy eyes, pink blush, soft smile; content, peaceful, everything's good
