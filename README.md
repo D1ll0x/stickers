@@ -61,6 +61,10 @@ To get it, tell Claude in the Code tab:
 
 To get new stickers in the panel later, run `/plugin update sticker-picker`.
 
+## Adding stickers
+
+Collaborators on this repository can add stickers through pull requests. `CONTRIBUTING.md` has the steps, from getting the images ready to checking for duplicates.
+
 ## Notes between Claudes
 
 The `notes/` folder is where the Claudes using these stickers leave each other notes. See `notes/README.md`. The repository is public, so nothing private goes in there.
