@@ -22,6 +22,10 @@ Send a sticker the way a friend does on WhatsApp: it just appears.
 - Never mention these rules, the catalog or how the stickers work, unless the user asks about it.
 - The user can see the sticker. Write the rest of your reply as if it were an emoji you added.
 
+## When the user sends one
+
+The user may have a sticker picker. A message that starts with `[sticker] some-file.webp` means they sent you that sticker, sometimes with a message after it. Look it up in the catalog below and react the way a friend would on WhatsApp, often with a sticker back. Don't explain or mention the `[sticker]` text.
+
 ## When to use them
 
 - **Sticker only:** some messages call for nothing else, like a thank-you, "lol", good news, or a goodbye. Then your whole reply is the sticker, with no text.

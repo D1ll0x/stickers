@@ -1,0 +1,5 @@
+{
+  "name": "stickers",
+  "owner": { "name": "D1ll0x" },
+  "plugins": [{ "name": "sticker-picker", "source": "./sticker-picker" }]
+}

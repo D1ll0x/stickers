@@ -60,3 +60,32 @@ draw();
 
 (ROOT / "tray.html").write_text(html, encoding="utf8")
 print(f"tray.html: {len(items)} stickers, {len(html)} chars")
+
+# The sticker-picker mod reads these two files from its own folder.
+import base64
+import io
+
+from PIL import Image
+
+catalog, current = [], ""
+for line in (ROOT / "STICKERS.md").read_text(encoding="utf8").splitlines():
+    head = re.match(r"^###\s+(.+)$", line)
+    if head:
+        current = head.group(1).strip()
+        continue
+    row = re.match(r"^- ([a-z0-9-]+\.webp) — (.*)$", line)
+    if row:
+        catalog.append({"file": row.group(1), "name": row.group(1)[:-5], "desc": row.group(2), "cat": current})
+
+thumbs = {}
+for entry in catalog:
+    im = Image.open(ROOT / "stickers" / entry["file"])
+    im.thumbnail((104, 104), Image.LANCZOS)
+    buf = io.BytesIO()
+    im.save(buf, "WEBP", quality=65)
+    thumbs[entry["file"]] = base64.b64encode(buf.getvalue()).decode()
+
+picker = ROOT / "sticker-picker"
+(picker / "catalog.json").write_text(json.dumps(catalog, ensure_ascii=False, separators=(",", ":")), encoding="utf8")
+(picker / "thumbs.json").write_text(json.dumps(thumbs, separators=(",", ":")), encoding="utf8")
+print(f"sticker-picker: {len(catalog)} stickers in catalog.json and thumbs.json")

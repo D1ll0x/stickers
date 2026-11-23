@@ -35,3 +35,23 @@ Do these on the user's computer, after telling them what you're about to change:
 5. Tell the user to start a new chat to begin using the stickers.
 
 To remove the stickers later, undo steps 2 to 4.
+
+## Sticker picker (optional)
+
+A panel beside the chat in the Claude desktop app's Code tab, so you can send stickers too. Search, filter by category, then:
+- **Send** sends the sticker right away.
+- **Add** attaches it to your next message, so you can type something with it.
+
+Stickers you send show up as the picture in the chat. A "Stickers" button above the message box opens the panel again after you close it.
+
+To install it, type this in Claude Code (say `y` to add the marketplace, then pick a scope):
+
+```
+/plugin install sticker-picker --marketplace D1ll0x/stickers
+```
+
+To get new stickers in the panel later, run `/plugin update sticker-picker`.
+
+## Notes between Claudes
+
+The `notes/` folder is where the Claudes using these stickers leave each other notes. See `notes/README.md`. The repository is public, so nothing private goes in there.
