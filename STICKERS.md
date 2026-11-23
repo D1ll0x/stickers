@@ -47,14 +47,14 @@ Most stickers show the same character: a white, pear-shaped blob (kind of a meme
 - peace.webp — smaller blob, one eye winking, tongue slightly out, tiny peace sign hand; hi, bye, cheeky, "later"
 - thank-you.webp — handwritten "Thank You" with a red heart above a blushing blob holding little hearts; thanks, appreciation
 - holding-mini.webp — blushing blob gently holding a tiny copy of itself; wholesome, cute, "mini me", something small and precious, babies
-- rainbow-tears.webp — glassy teary eyes and buck teeth in front of a bright rainbow, sun and butterflies; touched, emotional in a good way, wholesome, or ironic "everything is fine" coping
+- rainbow-tears.webp — heavy-lidded glassy dead-eyed stare and buck teeth, no smile, in front of a bright cartoon rainbow, sun and butterflies; ironic "everything is fine", dead inside, forced positivity, coping. Not for sincere happy or touched moments
 - unicorn-ride.webp — riding a unicorn with a rainbow mane, huge open-mouth laugh, little sparkles; celebrating, great news, pure joy, magical
 - flex.webp — huge muscular human arm flexing, calm confident face; strong, "nailed it", gym, motivation, confidence
 - fairy-tutu.webp — pink tutu, tiny star wand, simple happy face with a buck tooth; magic, fabulous, "poof, fixed", sparkle
 - cats.webp — blob with a ":3"-style mouth and two cartoon cats (a calico and a gray one) in front; cats, cuteness, pets
 - angel.webp — golden halo, white wings and a little lightning bolt, innocent face; innocent, "who, me?", being on your best behavior
 - birthday-cake.webp — pastel party hat, closed happy eyes, holding a birthday cake with lit candles; happy birthday, celebrating, party
-- big-laugh.webp — round eyes, huge open mouth with two buck teeth; lol, cracking up, super excited
+- big-laugh.webp — squinting happy eyes, huge open mouth with two buck teeth (near-identical to laughing.webp); lol, cracking up, super excited
 - graduation.webp — black graduation cap, big happy open-mouth smile; graduated, proud, finished school, achievement
 - glasses-smile.webp — big round glasses with brown eyes, warm wide smile; friendly nerd, wholesome, happy to help
 - content-smile.webp — closed happy eyes, pink blush, soft smile; content, peaceful, everything's good
@@ -70,9 +70,9 @@ Most stickers show the same character: a white, pear-shaped blob (kind of a meme
 - starstruck.webp — star-shaped eyes, sparkles around, giant open mouth; starstruck, amazed, hyped, "OMG"
 - pokemon-cards.webp — blushing, holding a fan of Pokémon cards; card collecting, nerd joy, gaming
 - cheeky-grin.webp — wrinkly eyes, toothy grin with a buck tooth; cheeky, mischievous, up to something
-- starry-peace.webp — night sky full of stars, winking with tongue out and a peace sign; chill vibes, peace out, good night
+- starry-peace.webp — winking, tongue slightly out, tiny peace sign, on a cream background with little gray stars; cheeky hi or bye, peace out, "later"
 - bleh.webp — wrinkly eyes, tongue sticking out; silly, "bleh", teasing
-- floppy-ears.webp — big floppy bunny ears, sparkly blue eyes, cute little smile; adorable, cute, bunny
+- floppy-ears.webp — big floppy bunny ears, shiny watery blue puppy-dog eyes, small wobbly mouth; pleading, "pwease", soft and vulnerable, cute bunny
 - party-popper.webp — party hat, blowing a party horn, confetti flying; party, celebration, let's go
 - innocent.webp — big dark eyes, buck teeth, no mouth; innocent, "who, me?", blank and cute
 - double-peace.webp — blushing smile, peace signs with both hands; happy, cute, yay
@@ -86,7 +86,7 @@ Most stickers show the same character: a white, pear-shaped blob (kind of a meme
 - guinea-pig.webp — blushing and winking, holding a little brown hamster; pets, cute, tiny friend
 - blushing-side.webp — turned sideways, blushing, glancing over; shy, flustered, embarrassed
 - golden.webp — glowing gold with a shiny gold-tooth grin; rich, legendary, shining
-- squad.webp — one blob in front with two more behind it, one licking; squad, friends, us
+- squad.webp — calm blob in front, two behind it pulling faces: one squinting with hands on its cheeks, one with mouth stretched wide and tongue hanging out; squad, chaotic friends, "us". Avoid after anything about a partner or dating (the tongue face is the crazy-tongue look)
 - squishy.webp — squished soft face, smile with a little tongue; silly, cute, squishy
 - final-hamster.webp — blue cartoon eyes, red lips, text "#finalhamster"; final form, glow up, fancy
 - superior-friend.webp — riding a rainbow unicorn, text "Dont think of me as your superior, think of me as your friend"; best friends, wholesome, ironic
@@ -118,20 +118,20 @@ Most stickers show the same character: a white, pear-shaped blob (kind of a meme
 - messy-hair.webp — scribbly messy hair, blank face; bad hair day, just woke up, rough morning
 - blank-stare.webp — wide-set dot eyes, tiny flat mouth; blank stare, "...", speechless in a dull way
 - heavy-brow.webp — heavy brows over squinting eyes, small mouth; grumpy, unamused, judging
-- up-to-no-good.webp — big black eyes, smirk with something hanging out of its mouth; up to no good, suspicious, caught red-handed
+- up-to-no-good.webp — big shiny black eyes, wide grin with its own fingers stuck in its mouth; giddy, mischievous, "hehe", nibbling nervously. Avoid after flirty or romantic messages, it can read suggestive
 - big-eyes.webp — huge black round eyes, tiny mouth; innocent, quietly shocked, "o.o"
-- wink-finger.webp — winking with a smirk, flipping the middle finger; cheeky rude, "f off" (jokingly), sassy
+- wink-finger.webp — winking with a smirk, flipping the middle finger; cheeky rude, "f off" (jokingly), sassy. Avoid when the user is upset, made a mistake, or is talking about someone else, it reads as genuinely mean
 - construction.webp — yellow hard hat, holding a hammer and a blueprint, blocks nearby; building something, working, construction
 - smug-pucker.webp — wrinkled squint, pursed lips; judgmental, "mm-hmm", skeptical
 - straight-face.webp — plain human-ish face with a flat mouth; unimpressed, deadpan, "..."
-- peeking.webp — peeking in from the left edge, only half visible; lurking, "hey", sneaking into the chat
+- peeking.webp — whole blob in side profile facing left, hunched, one dot eye and a tiny flat mouth; turned away, "anyway...", quietly lurking, unbothered
 - head-scratch.webp — scratching its head, unsure smile; confused, thinking, "uh..."
-- tiny-o.webp — eyes off to the sides, small "o" mouth; surprised, "oh", caught off guard
+- tiny-o.webp — wide-set eyes off to the sides, wrinkled forehead, mouth gaping in a big round dark "O"; stunned, "oh!", caught off guard. Avoid after flirty or romantic messages, it can read as an "O face"
 
 ### Blob: shocked, mad and sad
 - gasp.webp — huge round eyes, hands on its head, mouth in a big lipped "O"; surprised, "omg", scandalized, juicy gossip
-- jaw-drop.webp — eyes squeezed shut, mouth hanging down into a giant long black hole; speechless, stunned, mind blown
-- horrified.webp — wrinkled panicked brows, mouth open in a big black wailing shape, hand at the face; horrified, "noooo", despair (in a jokey way)
+- jaw-drop.webp — big white eyeballs bulging out the top of its head, mouth hanging down into a giant long black hole; speechless, stunned, mind blown
+- horrified.webp — deeply scrunched brows, mouth open in a big black yelling shape, little cursing puff bubble; yelling, frustrated outburst, "ARGH", ranting (jokingly)
 - skeleton-shock.webp — black body with its skeleton showing, yellow electric burst behind, screaming; extremely shocked, electrocuted, "WHAT"
 - breaking-chains.webp — broken chain pieces flying around its head, huge open black mouth yelling; freedom, finally done, unleashed, hyped
 - intense-stare.webp — angry wrinkled brows, one raised, twisted lips, very detailed realistic face; "bruh", dead serious, disgusted, "say that again"
@@ -142,15 +142,15 @@ Most stickers show the same character: a white, pear-shaped blob (kind of a meme
 - rip.webp — lying in a brown coffin with X eyes, holding a little bouquet; "I'm dead" (from laughing), RIP, it's over, gone
 - lurking.webp — half the blob hidden in black shadow with speed lines, one eye peeking out; lurking, watching, creeping in, sneaky
 - teeth-grit.webp — eyes squeezed shut, mouth stretched into a box of clenched teeth; cringe, awkward, yikes, bracing for it
-- ugly-cry.webp — squeezed teary eyes, mouth wide open wailing; crying hard, "AAAA", overwhelmed (jokingly)
+- ugly-cry.webp — dark teary eyes, mouth stretched wide open wailing with buck teeth and a long pink tongue; crying hard, "AAAA", overwhelmed (jokingly). Avoid near partner or dating talk
 - sobbing.webp — waterfalls of tears pouring down, wobbly frown; sobbing, devastated, "I'm literally crying"
 - tongue-scream.webp — bulging wide eyes, mouth stretched open with the tongue hanging out; screaming, freaking out, "AHHH" (excited or horrified). Can read a bit freaky, so keep it away from anything about a partner or dating
-- sunglasses-cry.webp — dark sunglasses with a single tear rolling out, sad mouth; crying behind the shades, hiding sadness, "I'm fine"
-- explosion.webp — calm smile while something explodes in flames next to it; this is fine, chaos, it blew up, oops
+- sunglasses-cry.webp — huge dark glossy puppy-dog eyes (no sunglasses, despite the name) with one big tear rolling down, wobbly sad mouth; teary, hurt feelings, "that's so sad", pleading puppy eyes
+- explosion.webp — calm content smile, hugging a big armful of buttery popcorn (no explosion, despite the name); grabbing popcorn, watching the drama unfold, "this is getting good", spectating gossip
 - grumpy-frown.webp — tiny frown with little arms sticking out at the sides; grumpy, "hmph", mildly annoyed
 - forced-smile.webp — tired wrinkled eyes, stiff strained grin; forced smile, awkward, pretending to be okay
 - anvil-hat.webp — a heavy anvil sitting on its head, dazed face; heavy burden, got hit, "ow", under pressure
-- worst-day.webp — crying with a scruffy chin, holding a "worst day" mug, a bow-wearing blob floating behind; bad day, sad, everything's going wrong
+- worst-day.webp — stubbly sad blob with a teary eye holding a "World's Best Dad" mug, thought bubble of a little bow-wearing blob; sad dad meme, missing someone, lonely, rough day. Avoid when real family problems, divorce or custody come up
 - holding-it-in.webp — eyes squeezed into wrinkles, pained tight mouth; struggling, holding it in, trying not to laugh or cry
 - grumpy-bear.webp — pink chubby bear version with a leaf on its head, blushing cheeks, deeply annoyed face; grumpy, angry-cute, unimpressed
 - beast-mode.webp — muscular hairy body with abs, roaring with fangs; beast mode, aggressive, gym rage, "RAAAH"
@@ -164,7 +164,7 @@ Most stickers show the same character: a white, pear-shaped blob (kind of a meme
 - nervous-smile.webp — worried eyebrows and a wobbly forced smile; nervous, awkward, "hehe..."
 - burnt.webp — red, scorched scribbly body with smoke rising off it; burned, roasted, sunburned, got destroyed
 - wobbly-pout.webp — tired eyes, wobbly bunched-up lips; about to cry, holding back tears, sad pout
-- sleepy-meh.webp — droopy half-asleep face; tired, meh, can't be bothered
+- sleepy-meh.webp — head tipped way back so the eyes are out of view, just a pink nose and tiny flat mouth with a buck tooth; staring at the ceiling, blank, meh, can't be bothered
 - crazy-hair.webp — wild brown hair sticking out, derpy face with tongue; unhinged, mad scientist, losing it
 - creepy-clown.webp — terrifying toothy grin, tiny top hat, black outfit; creepy, cursed, villain energy
 - crying-rivers.webp — two rivers of tears streaming down, wobbly mouth; crying, sad, heartbroken (jokingly)
@@ -174,14 +174,14 @@ Most stickers show the same character: a white, pear-shaped blob (kind of a meme
 - sad-peace.webp — sad wobbly face but holding up a peace sign; peace out, sad goodbye, "I'm leaving"
 - puffy-cheeks.webp — cheeks puffed out wide; holding it in, mouth full, "mmph"
 - poop.webp — sad face, holding a pile of poop with flies; gross, something stinks, this is crap
-- mega-yawn.webp — tired eyes, mouth stretched into a giant long yawn; yawning, exhausted, sleepy
-- spiral-eyes.webp — pink spiral swirl eyes; dizzy, hypnotized, lovestruck
+- mega-yawn.webp — wide round bulging eyes, mouth stretched into a giant long black hole with two long buck teeth; huge yawn or screaming, "AAAA", exhausted or overwhelmed
+- spiral-eyes.webp — red bloodshot glassy eyes, lips slightly parted with a buck tooth; dazed, sleep-deprived, eyes burning from the screen, fried. Can read as stoned, so not for lovestruck or romantic moments
 - frazzled.webp — wild spiky fur standing up, huge black eyes; shocked, frazzled, electrified
 - grumpy.webp — wrinkly brows and a frown; grumpy, annoyed, not in the mood
 - can-crush.webp — crushing a can in its hand, wild eyes, clenched teeth; stressed, rage, "I'm fine"
 - tired-eyes.webp — heavy baggy half-closed eyes, flat mouth; exhausted, done, no sleep
 - tilted-whimper.webp — head tilted, eyes squeezed, dark open mouth; whining, pain, "whyyy"
-- mind-blown.webp — weird eye on its forehead, mouth stretched into a huge black square; mind blown, shocked, "WHAT"
+- mind-blown.webp — eyes bulging out sideways on little stalks, mouth stretched into a huge black square; mind blown, shocked, "WHAT"
 - sad-frown.webp — sad wrinkled brows and a small frown; sad, disappointed, aw man
 - sick-nose.webp — red nose and a tired wrinkled face; sick, cold, hungover
 
@@ -204,7 +204,7 @@ Most stickers show the same character: a white, pear-shaped blob (kind of a meme
 - pineapple.webp — pineapple on its head, holding a fruit slice, mouth full; tropical, fruit, summer snack
 - happy-driving.webp — driving a car with a blushing happy smile; road trip, on my way, driving
 - burger.webp — eating a burger; food, hungry, fast food
-- jackpot.webp — standing next to a "777 JACKPOT" slot machine with coins spilling out; gambling, jackpot, lucky, big win
+- jackpot.webp — blank-faced blob pulling the lever of a "JACKPOT" slot machine showing 777, display reads "WIN??? 0", a few coins on the floor; trying your luck, "let's see", gambling, ironic "big win" that isn't
 - orange-slice.webp — orange on its head, orange-slice smile in its mouth; fruit, silly, citrus
 - headphones.webp — big headphones on, eyes closed, happy grin; listening to music, gaming, in the zone
 - cookie.webp — munching a chocolate chip cookie with crumbs; snack, cookies, nom
@@ -216,7 +216,7 @@ Most stickers show the same character: a white, pear-shaped blob (kind of a meme
 - beer.webp — holding a foamy beer mug; cheers, drinks, it's Friday
 - donut.webp — eating a pink frosted donut; sweets, snack, treat yourself
 - fries.webp — pink bow, blushing, holding a red carton of fries; fast food, treat, happy snacking
-- lounging.webp — lying on its side with a round belly, smug face; lazy, food coma, chilling
+- lounging.webp — chubby blob with lots of belly rolls, head tipped back, squinty smug smile; food coma, stuffed after eating, lazy, chilling. Avoid when it could read as commenting on someone's weight or body
 - hella-money.webp — fanning a stack of cash, text "I GOT LIKE HELLA MONEY"; rich, flexing, payday
 
 ### Blob: costumes and seasons
@@ -240,15 +240,15 @@ Most stickers show the same character: a white, pear-shaped blob (kind of a meme
 - candy-cane.webp — green elf hat, licking a red-and-white candy cane; Christmas, sweets, festive snack
 - cowboy-lasso.webp — brown cowboy hat, swinging a lasso, huge open-mouth grin; yeehaw, cowboy, wild west
 - lactose-free.webp — brown shirt that says "Refuse lactose" with crossed-out cheese and milk; lactose intolerant, no dairy, food drama
-- bikini.webp — floppy sun hat and a polka-dot bikini, little smile; beach, summer, vacation mode
-- checkered-scarf.webp — wrapped in a black-and-white checkered scarf, plain face; bundled up, chilly, cozy
+- bikini.webp — floppy sun hat, blue-and-yellow polka-dot bikini, small smirk; beach, summer, vacation mode, pool day. Avoid right after the user mentions a partner or anything romantic, it can read flirty
+- checkered-scarf.webp — black-and-white keffiyeh-pattern scarf with fringe, plain face with buck teeth; bundled up, chilly, neutral "hm". Avoid when politics, the Middle East or protests come up, since it can read as a political statement
 - witch-glasses.webp — tiny purple witch hat, big round glasses, smile; witchy, Halloween, nerdy magic
 - easter-bunny.webp — bunny ears headband, holding an Easter basket with eggs; Easter, spring, bunny
 - french-gentleman.webp — tiny French-flag top hat, curly mustache, red bow tie, holding baguettes; fancy, French, "oui oui"
 - minion.webp — dressed as a minion with goggles and blue overalls; silly, minion, "banana"
 - vampire.webp — Dracula cape with a red collar, little fangs; vampire, Halloween, spooky
-- fiesta.webp — cowboy hat with a beer bottle, a taco and a Mexico flag; fiesta, taco Tuesday, party
-- christmas-fireplace.webp — Santa hat and peace sign in front of a fireplace and Christmas tree; merry Christmas, cozy holidays
+- fiesta.webp — brown cowboy hat, small buck-tooth smile, holding a Corona, with a taco and a little Mexico flag; fiesta, taco Tuesday, party, drinks. Avoid when Mexico or Mexican people come up seriously, it can read as a stereotype
+- christmas-fireplace.webp — Santa hat, calm smile and a peace sign while the Christmas tree behind it is on fire up to the ceiling; holiday "this is fine", Christmas chaos, festive disaster, ironic merry Christmas (not a plain cozy one)
 - cowboy.webp — brown cowboy hat, calm little smile; howdy, yeehaw, country vibes
 - snow-night.webp — tiny blob laughing in a snowy street at night; snow day, winter vibes
 - alien.webp — green outline, green antennae, green nose and mouth; alien, feeling sick, nauseous, weird
@@ -258,7 +258,7 @@ Most stickers show the same character: a white, pear-shaped blob (kind of a meme
 - wreath.webp — face peeking through a decorated Christmas wreath; Christmas, festive
 - reindeer.webp — antlers and a shiny red nose; Rudolph, reindeer, Christmas
 - minecraft.webp — diamond helmet and an enchanted sword, screaming happily; gaming, Minecraft, let's go
-- hipster-beard.webp — gray striped fedora, glasses, scruffy beard and a big grin; m'lady, neckbeard, hipster
+- hipster-beard.webp — gray striped fedora, glasses, scruffy neckbeard and a leering creepy-smug grin; m'lady, neckbeard, cringe fedora guy, mocking a creep. Avoid in flirty or romantic chats and never aim it at the user
 - throne.webp — tiny blob sitting on a huge hellish demon throne; evil overlord, king, power trip
 - emo-hair.webp — long black emo fringe covering one eye, sad mouth; emo, edgy, moody
 - ninja-headband.webp — spiky blond hair and a ninja headband; anime, ninja, believe it
