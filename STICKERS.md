@@ -34,80 +34,75 @@ Send a sticker the way a friend does on WhatsApp: it just appears.
 
 <!-- One line per sticker: - file-name.ext — what it shows; when to use it -->
 
-Most stickers show the same character: a round white blob (hamster-like) meme drawing.
+Most stickers show the same character: a white, pear-shaped blob (kind of a meme hamster/rat) with a pink nose, two little arm lines and often buck teeth. Its face changes a lot from sticker to sticker, so read the description, not just the name.
 
 ### Blob: happy and nice
-- thumbs-up.webp — blob giving a big thumbs up; approval, "nice", "done", agreeing
-- happy-blush.webp — blushing, content smile; happy, pleased, "aww"
-- shy-blush.webp — shy, blushing; flattered by a compliment
-- flirty-lashes.webp — long lashes, cute smile; flirty, "you're sweet"
-- laughing.webp — big open-mouth laugh; lol, funny, happy
-- crazy-tongue.webp — derpy laugh with tongue out; crazy, very funny, silly
-- blep.webp — little tongue out; playful, teasing, cheeky
-- peace.webp — sneaky peace sign; hi, bye, cheeky
-- thank-you.webp — "Thank You" with hearts; thanks
-- holding-mini.webp — holding a tiny blob; wholesome, cute, "mini me"
-- rainbow-tears.webp — teary-eyed in front of a rainbow; touched, wholesome, "everything is fine now"
-- unicorn-ride.webp — riding a unicorn, overjoyed; celebrating, great news, magical
-- flex.webp — flexing an arm; strong, "nailed it", motivation
-- fairy-tutu.webp — tutu and star wand; magic, fabulous, "poof, fixed"
-- cats.webp — with two cats; cats, cuteness
+- thumbs-up.webp — big white cartoon hand giving a thumbs up next to a calm little smile; approval, "nice", "done", "got it", agreeing, quick yes
+- happy-blush.webp — big blush on both cheeks, wide content closed-mouth smile, eyes open; happy, pleased, "aww", something sweet happened
+- shy-blush.webp — heavy blush scribbles, squinty smiling eyes, hands fidgeting under the chin, faint heart floating nearby; flattered by a compliment, shy, "stoppp"
+- flirty-lashes.webp — long curly eyelashes, pink blush, tiny ":)" smile; flirty, charming, "you're sweet", playful compliment back
+- laughing.webp — squinting happy eyes, huge open mouth with two buck teeth; lol, laughing, something's genuinely funny
+- crazy-tongue.webp — scrunched-shut eyes, mouth stretched wide with a giant pink tongue hanging out; dying laughing, unhinged, chaos, way too funny
+- blep.webp — wide innocent eyes, plain face, little pink tongue poking straight out; playful, teasing, cheeky, "hehe"
+- peace.webp — smaller blob, one eye winking, tongue slightly out, tiny peace sign hand; hi, bye, cheeky, "later"
+- thank-you.webp — handwritten "Thank You" with a red heart above a blushing blob holding little hearts; thanks, appreciation
+- holding-mini.webp — blushing blob gently holding a tiny copy of itself; wholesome, cute, "mini me", something small and precious, babies
+- rainbow-tears.webp — glassy teary eyes and buck teeth in front of a bright rainbow, sun and butterflies; touched, emotional in a good way, wholesome, or ironic "everything is fine" coping
+- unicorn-ride.webp — riding a unicorn with a rainbow mane, huge open-mouth laugh, little sparkles; celebrating, great news, pure joy, magical
+- flex.webp — huge muscular human arm flexing, calm confident face; strong, "nailed it", gym, motivation, confidence
+- fairy-tutu.webp — pink tutu, tiny star wand, simple happy face with a buck tooth; magic, fabulous, "poof, fixed", sparkle
+- cats.webp — blob with a ":3"-style mouth and two cartoon cats (a calico and a gray one) in front; cats, cuteness, pets
 
 ### Blob: thinking and working
-- typing.webp — glasses, typing on a keyboard; working, coding, "on it"
-- actually.webp — nerd glasses, finger raised; "actually...", fun fact, explaining
-- rubiks-genius.webp — glasses, solving a Rubik's cube; clever, figuring it out
-- detective.webp — magnifying glass; investigating, looking into it
-- confused.webp — tilted head, worried eyes; confused, "huh?"
-- eyebrow-raise.webp — one eyebrow raised; suspicious, skeptical, "hmm"
-- side-eye.webp — huge zoomed side eye; side eye, "I saw that"
-- nervous-fingers.webp — fingertips tapping together; nervous, hopeful, waiting
-- evil-scheme.webp — evil grin, hands together; scheming, plotting, having a plan
-- smug.webp — wide smug grin; smug, proud, "told you"
+- typing.webp — reading glasses low on the nose, focused face, typing on a little keyboard; working, coding, "on it", busy
+- actually.webp — big black nerd glasses, buck-tooth grin, tiny hand raised like making a point; "actually...", fun fact, nerding out, correcting something
+- rubiks-genius.webp — glasses, calm focused face, holding a half-solved Rubik's cube; clever, figuring it out, puzzle solved, big brain
+- detective.webp — holding up a magnifying glass, squinting suspicious eyes, pursed lips; investigating, looking into it, debugging, "let me check"
+- confused.webp — blob turned sideways, one eye showing, squiggly raised brows, tiny mouth; confused, "huh?", "wait what", lost
+- eyebrow-raise.webp — one big dramatically arched eyebrow, other eye narrowed, small mouth; skeptical, "hmm", "are you sure about that"
+- side-eye.webp — blob turned away, one big eye glancing sideways, tiny mouth; side eye, "I saw that", sus, judging quietly
+- nervous-fingers.webp — worried brows, fingers nervously laced and tapping in front of the face; nervous, hopeful, "please work", waiting anxiously
+- evil-scheme.webp — dark gray shading over the face, evil slanted brows, creepy wide grin, fingertips pressed together; scheming, plotting, villain mode, mischievous plan
+- smug.webp — half-closed eyes, huge wide closed-mouth grin; smug, proud, "told you", feeling yourself
 
 ### Blob: shocked, mad and sad
-- gasp.webp — wide-eyed gasp; surprised, "omg"
-- jaw-drop.webp — mouth hanging open way down; speechless, stunned
-- horrified.webp — shocked open mouth; horrified, "noooo"
-- skeleton-shock.webp — electrocuted, skeleton showing; extremely shocked
-- rage-scream.webp — screaming with flames behind; angry, furious, or extremely hyped
-- power-up.webp — spiky green hair, screaming; powering up, going all out
-- breaking-chains.webp — screaming while breaking chains; freedom, finally done, unleashed
-- cringe-teeth.webp — clenched teeth grimace; awkward, cringe, yikes
-- intense-stare.webp — intense, serious face; "bruh", disgusted, dead serious
-- unimpressed.webp — squinting, pursed lips; unimpressed, doubtful
-- deadpan.webp — blank, deadpan face; "really?", no reaction
-- dramatic-swoon.webp — hand on forehead, swooning; exhausted, drama, "ugh"
-- sad-pout.webp — sad little pout; disappointed, sad
-- fading-away.webp — blob fading out; disappearing, leaving, "I'm out"
-- rip.webp — in a coffin with flowers; "I'm dead" (laughing), RIP, it's over
-- lurking.webp — peeking from the shadows; lurking, watching, sneaky
+- gasp.webp — huge round eyes, hands on its head, mouth in a big lipped "O"; surprised, "omg", scandalized, juicy gossip
+- jaw-drop.webp — eyes squeezed shut, mouth hanging down into a giant long black hole; speechless, stunned, mind blown
+- horrified.webp — wrinkled panicked brows, mouth open in a big black wailing shape, hand at the face; horrified, "noooo", despair (in a jokey way)
+- skeleton-shock.webp — black body with its skeleton showing, yellow electric burst behind, screaming; extremely shocked, electrocuted, "WHAT"
+- breaking-chains.webp — broken chain pieces flying around its head, huge open black mouth yelling; freedom, finally done, unleashed, hyped
+- intense-stare.webp — angry wrinkled brows, one raised, twisted lips, very detailed realistic face; "bruh", dead serious, disgusted, "say that again"
+- unimpressed.webp — wrinkled forehead, raised brows, small pursed lips; unimpressed, doubtful, "ok and?", not buying it
+- deadpan.webp — small blob with a flat human meme face, closed flat eyes, tiny mouth; deadpan, "really?", no reaction, "bruh" but calm
+- sad-pout.webp — droopy sad brows, wobbly frowning mouth; sad, disappointed, about to cry (jokingly), "aw man"
+- fading-away.webp — ghostly see-through double image, a horrified screaming blob overlapping a calm one, like a soul leaving the body; "I'm out", disappearing, mentally leaving, so shocked my soul left
+- rip.webp — lying in a brown coffin with X eyes, holding a little bouquet; "I'm dead" (from laughing), RIP, it's over, gone
+- lurking.webp — half the blob hidden in black shadow with speed lines, one eye peeking out; lurking, watching, creeping in, sneaky
 
 ### Blob: food, drinks and chilling
-- coffee-tired.webp — tired eyes, holding coffee; morning, need coffee, tired
-- soda.webp — cola cap, holding soda cans; drinks, thirsty, cheers
-- lollipop.webp — propeller hat, licking a lollipop; sweets, childlike joy
-- pizza-eating.webp — eating a slice of pizza; food, hungry, eating
-- pizza-costume.webp — dressed as a pizza slice; pizza, food, silly
-- cozy-movie-night.webp — blanket, popcorn and laptop; chilling, movie night, relaxing
-- good-night.webp — pajamas, nightcap and candle; good night, sleepy, bedtime
-- money-rain.webp — sunglasses, money raining down; rich, payday, "deal with it"
-- cash-hands.webp — smirking, holding cash; money, profit, got paid
-- bucket-hat.webp — wearing a bucket hat; casual, chill
+- coffee-tired.webp — droopy baggy eyes, frown, holding a big black mug with both hands; morning, need coffee, tired, long day
+- soda.webp — red Coca-Cola cap, huge buck-tooth grin, Dr Pepper and Coke cans; drinks, thirsty, cheers, hyped about snacks
+- lollipop.webp — rainbow propeller beanie, licking a rainbow swirl lollipop; sweets, childlike joy, carefree
+- pizza-eating.webp — holding a pepperoni slice up to its mouth; food, hungry, eating, snack time
+- pizza-costume.webp — face poking out of a big pepperoni pizza slice costume; pizza, food, silly, dressed up
+- cozy-movie-night.webp — wrapped in a pink checkered blanket, blushing with happy closed eyes, popcorn and laptop, little heart; chilling, comfy, movie night, self-care
+- good-night.webp — blue striped pajamas and nightcap, holding a lit candle; good night, sleepy, bedtime
+- money-rain.webp — pixel "deal with it" sunglasses, black pompadour hair, little mustache smirk, dollar bills raining down; rich, payday, flexing money, "deal with it"
+- cash-hands.webp — half-closed sly eyes, sideways smirk, green dollar bills in both hands; got paid, money talk, shady deal, "heh"
+- bucket-hat.webp — green bucket hat, blank neutral front-facing stare, straight mouth; casual, chill, unbothered, "anyway"
 
 ### Blob: costumes and seasons
-- batman.webp — bat costume and cape; hero, "I'll handle it"
-- batman-nervous.webp — bat costume, sweating; nervous hero, "uh oh"
-- spiderman.webp — spider costume; hero, spider jokes
-- winter-cozy.webp — knit hat, jacket and mittens; cold weather, bundled up, winter
-- freezing.webp — blue and frozen in snow; freezing cold
-- snowman.webp — blob as a snowman; winter, snow
-- santa-cocoa.webp — Santa hat, cup of cocoa; Christmas, holidays
-- elf.webp — elf costume; Christmas, holidays
-- grinch.webp — green and grumpy, Christmas sweater; grumpy, hating something festive
-- pumpkin.webp — blob as a jack-o'-lantern; Halloween, autumn
+- batman.webp — bat mask and yellow cape, calm serious face, little buck tooth; hero mode, "I'll handle it", taking charge
+- batman-nervous.webp — same bat mask and cape, but teary eyes and a sweat drop; nervous hero, "uh oh", in over my head
+- spiderman.webp — full red spider suit with web lines, spider logo and blue arms; hero, spider jokes
+- winter-cozy.webp — pink knit beanie, red puffer jacket, yellow mittens, rosy cheeks and a runny nose; cold weather, freezing, bundled up, winter
+- snowman.webp — blob as a snowman with a carrot nose, red scarf and stick arms; winter, snow
+- santa-cocoa.webp — red Santa hat, gentle smile, holding a mug of cocoa; Christmas, cozy holidays
+- elf.webp — striped elf hat, pointy ears, red and green jester outfit with a belt; Christmas, holiday helper, "on it" in December
+- grinch.webp — green grumpy face with a sly grin, red fur-trimmed Santa outfit; grumpy, hating something festive, petty, mischievous
+- pumpkin.webp — blob as an orange jack-o'-lantern with a carved grin and a stem on top; Halloween, autumn, spooky
 
 ### Real animals
-- dog-stare.webp — Bernese mountain dog staring straight ahead; "looking at you", waiting, judging
-- dog-side-glance.webp — Bernese mountain dog glancing sideways; side eye, suspicious, unsure
-- lizard.webp — a real lizard held in a hand; reptiles, lizards, "look at this guy"
+- dog-stare.webp — Bernese mountain dog staring straight into the camera, mouth a little open; "looking at you", waiting, judging, blank "hm?"
+- dog-side-glance.webp — Bernese mountain dog glancing sideways with the whites of its eyes showing; awkward, side eye, nervous, "uh..."
+- lizard.webp — real photo of a speckled lizard held in a hand, looking up at the camera; reptiles, lizards, "look at this guy"
