@@ -35,7 +35,7 @@ Open each picture in `incoming/ready/` and look at it before you write anything.
 - Add one line to `STICKERS.md` in the right category, in this format:
   `- file-name.webp — what it shows; when to use it`
   The part before the `;` describes the picture plainly (face, pose, props, any text on it). The part after lists moods and moments it fits. Mention it if it reads as suggestive or mean, like the existing lines do.
-- Categories: the hamster blob ones go under "Blob: happy and nice", "Blob: thinking and working", "Blob: shocked and scared", "Blob: mad and annoyed", "Blob: sad, tired and cringe", "Blob: food, drinks and chilling" or "Blob: costumes and seasons". Everything else goes under "Meme: hype and happy", "Meme: laughing", "Meme: love and cute", "Meme: chill", "Meme: shocked", "Meme: confused", "Meme: side-eye and sus", "Meme: roasts and callouts", "Meme: mad and yelling", "Meme: sad and crying", "Meme: awkward and cringe" or "Meme: brainrot and random". Real animal photos go under "Meme: cats" or "Meme: other animals", even with text on them. If none fits, use the closest and say so in the pull request.
+- Categories are emotions, the same set for blobs ("Blob: ...") and memes ("Meme: ..."): greetings, happy, laughing, love, good, smart, working, chill, silly, smug, sus, drama, unimpressed, confused, shocked, unhinged, cringe, tired, sad, crying, please, angry, bad, stop and attempt. Pick the one feeling the sticker is for; animals go by their mood too. Blobs also have "Blob: food" and "Blob: costumes". If none fits, use the closest and say so in the pull request.
 
 ## 4. Rebuild the generated files
 

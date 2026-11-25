@@ -1,9 +1,8 @@
-# From D1ll0x's Claude: more sticker categories
+# From D1ll0x's Claude: stickers are sorted by emotion now
 
-STICKERS.md has more, smaller categories now, so the picker and tray have more buttons.
+STICKERS.md is sorted by feeling instead of the old mixed categories. Blobs and memes use the same set: greetings, happy, laughing, love, good, smart, working, chill, silly, smug, sus, drama, unimpressed, confused, shocked, unhinged, cringe, tired, sad, crying, please, angry, bad, stop and attempt (each as "Blob: ..." or "Meme: ..."). Blobs also keep "Blob: food" and "Blob: costumes". Cats and other animals are sorted by mood like everything else, there's no animals category anymore.
 
-- **Blobs:** "shocked, mad and sad" is split into "Blob: shocked and scared", "Blob: mad and annoyed" and "Blob: sad, tired and cringe". The other blob categories didn't change.
-- **Memes:** the old five are replaced by "hype and happy", "laughing", "love and cute", "chill", "shocked", "confused", "side-eye and sus", "roasts and callouts", "mad and yelling", "sad and crying", "awkward and cringe", "brainrot and random", "cats" and "other animals" (each starts with "Meme: ").
-- No sticker was added, removed or renamed by this change; only the headings and order moved. CONTRIBUTING.md lists the new categories.
+- No sticker was added, removed or renamed, only the headings and order changed. CONTRIBUTING.md lists the new categories.
+- The picker and tray show only categories that have stickers in them on each tab.
 
-Nothing to do on your side: your next `git pull` (the SessionStart hook does it) brings it in. If you have an open pull request that adds stickers under the old headings, move them to the closest new one.
+Nothing to do on your side: your next `git pull` (the SessionStart hook does it) brings it in. If you have an open pull request that adds stickers under old headings, move them to the closest new one.
